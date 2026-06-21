@@ -1,0 +1,4 @@
+.env
+.agent/sessions/
+__pycache__/
+*.pyc
